@@ -1,0 +1,20 @@
+1.	How many hours did it take you to complete this assessment? (Please keep try to keep track of how many hours you have spent working on each individual part of this assessment as best you can - an estimation is fine; we just want a rough idea.)
+
+Approximately 8 hours.
+
+2.	What online resources you have used? (My lectures, YouTube, Stack overflow etc.)
+
+I reviewd the lectures (pausing to implement), copilot, google searches to ask quesitons.
+
+3.	Did you need to ask any of your friends in solving the problems. (If yes, please mention name of the friend. They must be amongst your class fellows.)
+
+No.
+
+4.	Did you need to ask questions to any of your instructors? If so, how many questions did you ask (or how many help sessions did you require)?
+
+If I wasn't away for work, I would have attempted the QAP sooner and asked how to make the $ amounts display with two decimal places. The google answer I found seemed too complicated so I eliminated it. Therefor my display isn't exactly how it should be.
+
+
+5.	Rate (subjectively) the difficulty of each question from your own perspective, and whether you feel confident that you can solve a similar but different problem requiring some of the same techniques in the future now that you’ve completed this one.
+
+I am NOT comfortable coming up with solution on my own but if we're able to use all the same resources I can answer similar questions. I do not feel confident yet in figuring out how this might translate into something our sprint might involve.
